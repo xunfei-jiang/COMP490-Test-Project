@@ -2,3 +2,6 @@ I updated this file at 10:22 AM.
 
 
 To test if this commit will automatically appears on Jigit.
+
+
+Insert another line with the commit message include the bug name in Jira.
