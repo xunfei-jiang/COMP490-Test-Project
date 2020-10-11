@@ -1,3 +1,6 @@
 This is the first line in the merge file.
 
+
 Add a new line from COMP490-Test-Project 2.
+
+Add a new line from COMP490-Test-Project.
