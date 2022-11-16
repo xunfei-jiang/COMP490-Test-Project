@@ -6,5 +6,6 @@ To test if this commit will automatically appears on Jigit.
 
 Insert another line with the commit message include the bug name in Jira.
 
+Add one line to test the git commit to JIRA.
 
 Insert a new line to test solve the issue that was imported from Github to Jira, by specify the issue key inside Jira (FSPRM-25).
