@@ -1,1 +1,3 @@
 Close the issue using close.
+
+Add a new file to test pull request and then release.
