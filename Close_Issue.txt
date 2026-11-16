@@ -1,1 +1,4 @@
 Close the issue using close.
+
+
+fix: prevent racing of requests
