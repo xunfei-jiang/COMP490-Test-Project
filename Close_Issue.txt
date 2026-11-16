@@ -7,3 +7,8 @@ fix: prevent racing of requests
 Add a new file to test pull request and then release.
 
 After solving the merge request, a new note is added to test release.
+
+
+Add another line for release testing.
+
+Feature commit message. 
