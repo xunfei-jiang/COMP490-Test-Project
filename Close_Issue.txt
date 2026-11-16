@@ -10,3 +10,5 @@ After solving the merge request, a new note is added to test release.
 
 
 Add another line for release testing.
+
+Feature commit message. 
