@@ -1,1 +1,9 @@
+{
+  "$schema": "https://githubusercontent.com",
+  "packages": {
+    ".": {
+      "release-type": "simple"
+    }
+  }
+}
 
